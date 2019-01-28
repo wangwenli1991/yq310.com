@@ -2,11 +2,15 @@
 <html lang="en">
 
 <head>
-  <title>上海婚礼网,上海舞台搭建，上海婚礼布置，上海鲜花布置</title>
+  <title>输送带,挡边输送带，输送带厂家,中国自产代理输送带厂家</title>
   <!-- Meta-Tags -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
-  <meta name="keywords" content="上海婚礼网,婚礼策划,海外婚礼,婚礼布置，婚庆公司" />
+  <meta name="keywords" content="挡边输送带工厂，专营各类型输送带及工业皮带。公司主导产品橡胶输送带，尼龙输送带，毛毡传送带,矿用输送带，输送带托辊，耐高温输送带等，输送带价格电话：15601852720。" />
+
+  <meta name="description" content="中国自产代理输送带厂家，专营各类型输送带及工业皮带和挡边输送带。公司主导产品橡胶输送带，尼龙输送带，橡胶帆布带,大倾角挡边带，环形输送带，矿用输送带，输送带托辊，耐高温输送带等，输送带价格电话：15601852720。
+">
+
   <script>
     addEventListener("load", function () {
       setTimeout(hideURLbar, 0);
@@ -34,7 +38,7 @@
     <!-- header -->
     <header>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="">婚礼婚庆网</a>
+        <a class="navbar-brand" href="{{ asset('/') }}">挡边输送带</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
             aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -81,7 +85,7 @@
             </li>
           </ul>
           <form action="#" method="post" class="form-inline my-2 my-lg-0 search mx-lg-auto">
-            <input class="form-control mr-sm-2" type="search" placeholder="搜索婚礼风格 ..." name="Search" required="">
+            <input class="form-control mr-sm-2" type="search" placeholder="搜索输送带风格 ..." name="Search" required="">
             <button class="btn btn-outline-success my-2 my-sm-0" type="submit">搜索</button>
           </form>
         </div>
@@ -99,7 +103,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-4 footer-grids-w3-agile">
-          <h2>最新婚礼案例</h2>
+          <h2>最新输送带案例</h2>
           <div class="row ff-images">
             <a href="stories.html" class="col-4">
               <img src="images/s1.jpg" class="img-fluid" alt="Responsive image">
@@ -122,19 +126,19 @@
           </div>
         </div>
         <div class="col-lg-4 footer-grids-w3-agile">
-          <h3>联系婚礼网</h3>
+          <h3>联系输送带网</h3>
           <address>
-            <p>上海,苏州,无锡</p>
+            <p>橡胶带，挡边带，尼龙带，</p>
             <p class="my-2">上海市区</p>
             <p class="phone">电话:156-0185-2720</p>
-            <p class="phone my-2">幸福热线:15601852720</p>
-            <p class="phone">婚礼网邮件:
+            <p class="phone my-2">批发热线:15601852720</p>
+            <p class="phone">输送带网邮件:
               <a href="mailto:">2581133606@qq.com</a>
             </p>
           </address>
         </div>
         <div class="col-lg-4 footer-grids-w3-agile">
-          <h3>最新婚礼网资讯</h3>
+          <h3>最新输送带网资讯</h3>
           <ul class="w3agile_footer_grid_list">
             <li>Ut aut reiciendis voluptatibus adipiscing
               <a href="#">example.com</a> alias, ut aut.
@@ -155,7 +159,10 @@
   <!-- copyright -->
   <div class="copyright-w3layouts">
     <div class="container">
-      <p class="py-xl-4 py-3">Copyright &copy; 2018.Company name All rights reserved.<a target="_blank" href="http://www.goodhunli.com">婚礼婚庆网</a>
+      <p class="py-xl-4 py-3">Copyright &copy; 2018.Company name All rights reserved.
+        <a target="_blank" href="http://www.goodhunli.com">输送带</a>
+        <a target="_blank" href="http://www.goodhunli.com">挡边输送带</a>
+        <a target="_blank" href="http://www.goodhunli.com">橡胶输送带</a>
         <a href="http://www.miitbeian.gov.cn">皖ICP备17000855号-9</a>
       </p>
     </div>
