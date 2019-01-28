@@ -34,7 +34,7 @@
     <!-- header -->
     <header>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="index.html">婚礼婚庆网</a>
+        <a class="navbar-brand" href="">婚礼婚庆网</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
             aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -43,28 +43,41 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="/">首页
+              <a class="nav-link" href="/">输送带生产厂家
                 <span class="sr-only">(current)</span>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="about">关于婚礼网</a>
+              <a class="nav-link" href="about">橡胶输送带</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="gallery">婚礼网相册</a>
+              <a class="nav-link" href="gallery">图片大全</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
                   aria-expanded="false">
-                婚礼网服务
+                规格材质分类
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item text-center" href="stories">成功案例</a>
                 <a class="dropdown-item text-center" href="typography">其他表单</a>
               </div>
             </li>
+
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+                  aria-expanded="false">
+                用途
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item text-center" href="stories">成功案例</a>
+                <a class="dropdown-item text-center" href="typography">其他表单</a>
+              </div>
+            </li>
+
+
             <li class="nav-item">
-              <a class="nav-link" href="contact">联系我们</a>
+              <a class="nav-link" href="contact">联系厂家购买</a>
             </li>
           </ul>
           <form action="#" method="post" class="form-inline my-2 my-lg-0 search mx-lg-auto">
