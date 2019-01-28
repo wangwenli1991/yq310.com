@@ -14,8 +14,8 @@ Route::Auth();
 //quickstart-basic
 //
     Route::get('/','IndexController@index');
-    Route::get('/about','IndexController@about');
-    Route::get('/gallery','IndexController@gallery');
+    Route::get('/xiangjiaodai','IndexController@about');
+    Route::get('/tupiandaquan','IndexController@gallery');
     Route::get('/stories','IndexController@stories');
     Route::get('/typography','IndexController@typography');
 	Route::get('/contact','IndexController@contact');

@@ -52,36 +52,83 @@
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="about">橡胶输送带</a>
+              <a class="nav-link" href="xiangjiaodai">橡胶输送带</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="gallery">图片大全</a>
+              <a class="nav-link" href="tupiandaquan">图片大全</a>
             </li>
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+              <a class="nav-link dropdown-toggle" href="guigecaizhi" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
                   aria-expanded="false">
                 规格材质分类
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item text-center" href="stories">成功案例</a>
-                <a class="dropdown-item text-center" href="typography">其他表单</a>
+                <a class="dropdown-item text-center" href="guijiaodai">硅胶带</a>
+                <a class="dropdown-item text-center" href="pvc">PVC</a>
+                <a class="dropdown-item text-center" href="xiangjiao">橡胶</a>
+                <a class="dropdown-item text-center" href="pvk">PVK</a>
+                <a class="dropdown-item text-center" href="juanzhi">聚氨酯</a>
+                <a class="dropdown-item text-center" href="juzhi">聚酯</a>
+                <a class="dropdown-item text-center" href="nilong">尼龙</a>
+                <a class="dropdown-item text-center" href="jinshudai">金属带</a>
+                <a class="dropdown-item text-center" href="gunzi">辊子</a>
+                <a class="dropdown-item text-center" href="guaban">刮板</a>
+                <a class="dropdown-item text-center" href="banshi">板式</a>
+                <a class="dropdown-item text-center" href="julvyixi">聚氯乙烯</a>
+                <a class="dropdown-item text-center" href="pudai">PU</a>
+                <a class="dropdown-item text-center" href="suliaolianban">塑料链板</a>
+                <a class="dropdown-item text-center" href="tuogun">托辊</a>
+                <a class="dropdown-item text-center" href="304不锈钢">304不锈钢</a>
+                <a class="dropdown-item text-center" href="tefulongjiaodai">特氟龙胶带</a>
+                <a class="dropdown-item text-center" href="jusifuyixi">聚四氟乙烯</a>
+                <a class="dropdown-item text-center" href="yetiguijiao">液体硅胶</a>
+                <a class="dropdown-item text-center" href="buxiugangshusongwangdai">不锈钢输送网带</a>
+                <a class="dropdown-item text-center" href="buxiuganglianban">不锈钢链板</a>
+                <a class="dropdown-item text-center" href="gangsishengshusongdai">钢丝绳输送带</a>
               </div>
             </li>
 
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+              <a class="nav-link dropdown-toggle" href="xingnengyongtu" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
                   aria-expanded="false">
-                用途
+                性能用途
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item text-center" href="stories">成功案例</a>
-                <a class="dropdown-item text-center" href="typography">其他表单</a>
+                <a class="dropdown-item text-center" href="daishishusongji">带式输送机</a>
+                <a class="dropdown-item text-center" href="zhusuji">注塑机</a>
+                <a class="dropdown-item text-center" href="daichuandong">带传动</a>
+                <a class="dropdown-item text-center" href="shusongji">输送机</a>
+                <a class="dropdown-item text-center" href="zhoucheng">轴承</a>
+                <a class="dropdown-item text-center" href="wujinhangye">五金行业</a>
+                <a class="dropdown-item text-center" href="tishengji">提升机</a>
+                <a class="dropdown-item text-center" href="lianbanshusongji">链板输送机</a>
+                <a class="dropdown-item text-center" href="yidongpidaishusongji">移动皮带输送机</a>
+                <a class="dropdown-item text-center" href="yidongshishusongji">移动式输送机</a>
+                <a class="dropdown-item text-center" href="paposhusongji">爬坡输送机</a>
+                <a class="dropdown-item text-center" href="zidongzhuangcheji">自动装车机</a>
+                <a class="dropdown-item text-center" href="daqingjiaoshusongji">大倾角波状带式输送机</a>
+                <a class="dropdown-item text-center" href="zidongzhuangcheji">自动装车机</a>
+                <a class="dropdown-item text-center" href="meikuangyongpidai">煤矿用皮带输送机</a>
+                <a class="dropdown-item text-center" href="kongduanqingsaoqi">空段清扫器</a>
+                <a class="dropdown-item text-center" href="zhuanwanpidaiji">转弯皮带机</a>
+                <a class="dropdown-item text-center" href="doushitishengji">斗式提升机</a>
+                <a class="dropdown-item text-center" href="dangbian">挡边</a>
+                <a class="dropdown-item text-center" href="papo">爬坡</a>
+                <a class="dropdown-item text-center" href="chuansong">传送</a>
+                <a class="dropdown-item text-center" href="shipin">食品</a>
+                <a class="dropdown-item text-center" href="qingxing">轻型</a>
+                <a class="dropdown-item text-center" href="lianban">链板</a>
+                <a class="dropdown-item text-center" href="daqingjiao">大倾角</a>
+                <a class="dropdown-item text-center" href="fanghua">防滑(防滑功能好,使用寿命强)</a>
+                <a class="dropdown-item text-center" href="naiyou">耐油(适合于输送含油物料)</a>
+                <a class="dropdown-item text-center" href="naire">耐热耐高温(用于输送高温物料)</a>
+                <a class="dropdown-item text-center" href="zuran">阻燃</a>
               </div>
             </li>
 
 
             <li class="nav-item">
-              <a class="nav-link" href="contact">联系厂家购买</a>
+              <a class="nav-link" href="lianxigoumai">联系厂家购买</a>
             </li>
           </ul>
           <form action="#" method="post" class="form-inline my-2 my-lg-0 search mx-lg-auto">
