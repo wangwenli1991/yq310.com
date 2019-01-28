@@ -8,26 +8,29 @@
           <ul class="rslides" id="slider3">
             <li>
               <div class="slider-info">
-                <h3>小明和小红的婚礼</h3>
-                <p>2018年9月28日</p>
+                <h3>各种行业使用的机器输送带</h3>
+                <p>五金行业</p>
+                <p>煤矿</p>
+                <p>食品</p>
+                <p>农业</p>
                 <h1 class="text-right mt-lg-0 mt-md-3 mt-sm-4 mt-3">我们都在等待最好的</h1>
-                <a href="stories.html" class="text-right">我们的故事</a>
+                <a href="stories.html" class="text-right">我们的产品</a>
               </div>
             </li>
             <li>
               <div class="slider-info">
-                <h3>Berend & Michelle</h3>
-                <p>6 June 2018</p>
+                <h3>性能多种多样,可以自由定制,采购多少方便自由</h3>
+                <p>欢迎来电咨询</p>
                 <h4 class="text-right mt-lg-0 mt-md-3 mt-sm-4 mt-3">Feeling awesome</h4>
-                <a href="stories.html" class="text-right">Our Story</a>
+                <a href="stories.html" class="text-right">我们的工厂</a>
               </div>
             </li>
             <li>
               <div class="slider-info">
-                <h3>Guido & Myrna</h3>
-                <p>29 July 2018</p>
-                <h4 class="text-right mt-lg-0 mt-md-3 mt-sm-4 mt-3">That was so wonderful</h4>
-                <a href="stories.html" class="text-right">Our Story</a>
+                <h3>山东省泰安市</h3>
+                <p>从2006年经营到现在</p>
+                <h4 class="text-right mt-lg-0 mt-md-3 mt-sm-4 mt-3">做事原则:诚实守信,质量保证,售后到位,发货快速</h4>
+                <a href="stories.html" class="text-right">欢迎前来洽谈采购代理</a>
               </div>
             </li>
           </ul>
@@ -40,9 +43,9 @@
   <!--about-->
   <section class="about-section py-5" id="about">
     <div class="container py-xl-5 py-sm-3">
-      <h5 class="main-w3l-title mb-sm-3 mb-2">关于我们的婚礼</h5>
+      <h5 class="main-w3l-title mb-sm-3 mb-2">关于我们的输送带</h5>
       <div class="about-top">
-        <h3 class="subheading-wthree mb-3">Something About Us</h3>
+        <h3 class="subheading-wthree mb-3">BELT,BELT,Something About Us</h3>
         <p class="paragraph-agileinfo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis tristique est, et egestas odio. Mauris ac tristique
           arcu, sed interdum risus.Integer quis tristique est, et egestas odio. Mauris ac tristique arcu, sed interdum risus.
         </p>
