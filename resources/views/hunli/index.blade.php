@@ -152,22 +152,22 @@
         <div class="col-lg-4 footer-grids-w3-agile">
           <h2>最新输送带案例</h2>
           <div class="row ff-images">
-            <a href="stories.html" class="col-4">
-              <img src="images/s1.jpg" class="img-fluid" alt="Responsive image">
+            <a href="" class="col-4">
+              <img src="{{ asset('/hunli/images/s1.jpg') }}" class="img-fluid" alt="Responsive image">
             </a>
-            <a href="stories.html" class="col-4">
+            <a href="" class="col-4">
               <img src="images/s2.jpg" class="img-fluid" alt="Responsive image">
             </a>
-            <a href="stories.html" class="col-4">
+            <a href="" class="col-4">
               <img src="images/s3.jpg" class="img-fluid" alt="Responsive image">
             </a>
-            <a href="stories.html" class="col-4">
+            <a href="" class="col-4">
               <img src="images/s2.jpg" class="img-fluid" alt="Responsive image">
             </a>
-            <a href="stories.html" class="col-4">
+            <a href="" class="col-4">
               <img src="images/s3.jpg" class="img-fluid" alt="Responsive image">
             </a>
-            <a href="stories.html" class="col-4">
+            <a href="" class="col-4">
               <img src="images/s1.jpg" class="img-fluid" alt="Responsive image">
             </a>
           </div>
